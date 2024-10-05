@@ -15,7 +15,7 @@ module.exports = {
     async redirects() {
       return [
         {
-          source: '/products2',
+          source: '/t2',
           destination: 'https://dyoid.webflow.io/category/all',
           permanent: true,
         },
