@@ -14,6 +14,7 @@ const Home = (props) => {
     <link rel="icon" href="/favicon.png" />
     <link rel="icon" href="/favicon128.png" />
     <link rel="icon" href="/favicon192.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="favicon192.png" />
     <link href="/webclip.png" rel="apple-touch-icon" />
     
         </Head>
