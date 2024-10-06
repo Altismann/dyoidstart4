@@ -2,25 +2,13 @@ import Document, { Html, Head, Main, NextScript } from 'next/document'
 class CustomDocument extends Document {
   render() {
     return (
-      <Html lang="sv">
+      <Html lang="en">
         <Head>
           <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           ></meta>
           <meta charSet="utf-8"></meta>
-
-  <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." name="description"</meta>
-  <meta content="Startsida" property="og:title"</meta>
-  <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." property="og:description"</meta>
-  <meta content="Startsida" property="twitter:title"</meta>
-  <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." property="twitter:description"</meta>
-  <meta property="og:type" content="website"</meta>
-  <meta content="summary_large_image" name="twitter:card"</meta>
-
-  <link href="public/favicon.png" rel="shortcut icon" type="image/x-icon">
-  <link href="public/webclip.png" rel="apple-touch-icon">
-         
           <meta property="twitter:card" content="summary_large_image"></meta>
           <style
             dangerouslySetInnerHTML={{
