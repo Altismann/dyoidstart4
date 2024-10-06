@@ -11,8 +11,8 @@ const Home = (props) => {
           <title>dyoid</title>
           <meta property="og:title" content="dyoid" />
       <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." name="description" />
-    <link rel="icon" href="public/favicon.png" />
-    <link href="public/webclip.png" rel="apple-touch-icon" />
+    <link rel="icon" href="/favicon.png" />
+    <link href="/webclip.png" rel="apple-touch-icon" />
         </Head>
         <section className="home-section">
           <header className="home-navbar">
