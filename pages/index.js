@@ -554,6 +554,7 @@ const Home = (props) => {
               height: 26px;
               align-items: center;
               margin-left: 0px;
+              margin-top:60px;
               padding-top: var(--dl-space-space-halfunit);
               padding-left: var(--dl-space-space-halfunit);
               padding-right: var(--dl-space-space-halfunit);
@@ -637,6 +638,7 @@ const Home = (props) => {
               align-self: center;
               align-items: center;
               margin-left: 0px;
+              margin-top:60px;
               padding-top: var(--dl-space-space-halfunit);
               margin-right: 0px;
               padding-left: var(--dl-space-space-halfunit);
@@ -674,6 +676,7 @@ const Home = (props) => {
             }
             .home-buttons {
               flex-direction: column;
+              margin-top:80px;
             }
             .home-get-started1 {
               width: 205px;
@@ -701,6 +704,7 @@ const Home = (props) => {
               width: 479px;
               height: 30px;
               padding: 0px;
+              margin-top:60px;
               align-self: center;
               align-items: center;
               padding-top: var(--dl-space-space-halfunit);
@@ -733,6 +737,7 @@ const Home = (props) => {
             }
             .home-buttons {
               width: 100%;
+              margin-top:80px;
             }
             .home-get-started1 {
               padding-top: 20px;
