@@ -8,8 +8,8 @@ const Home = (props) => {
     <>
       <div className="home-container1">
         <Head>
-          <title>Startsida</title>
-          <meta property="og:title" content="Startsida" />
+          <title>Planical modern template</title>
+          <meta property="og:title" content="Planical modern template" />
         </Head>
         <section className="home-section">
           <header className="home-navbar">
