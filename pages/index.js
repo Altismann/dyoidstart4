@@ -10,6 +10,7 @@ const Home = (props) => {
         <Head>
           <title>dyoid</title>
           <meta property="og:title" content="dyoid" />
+      <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." name="description"/>
         </Head>
         <section className="home-section">
           <header className="home-navbar">
