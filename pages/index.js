@@ -13,6 +13,7 @@ const Home = (props) => {
       <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." name="description" />
     <link rel="icon" href="/favicon.png" />
     <link rel="icon" href="/favicon128.png" />
+    <link rel="icon" href="/favicon192.png" />
     <link href="/webclip.png" rel="apple-touch-icon" />
     
         </Head>
