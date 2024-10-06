@@ -9,7 +9,7 @@ const Home = (props) => {
       <div className="home-container1">
         <Head>
           <title>dyoid</title>
-          <meta property="og:title" content="Planical modern template" />
+          <meta property="og:title" content="dyoid" />
         </Head>
         <section className="home-section">
           <header className="home-navbar">
