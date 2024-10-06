@@ -10,7 +10,7 @@ const Footer1 = (props) => {
       >
         <div className="footer1-container">
           <a
-            href="https://dyoid.se/kopvillkor-fran-privat-verksamhet/"
+            href="https://dyoid.wuaze.com/kopvillkor-fran-privat-verksamhet/"
             target="_blank"
             rel="noreferrer noopener"
             className="footer1-link1"
@@ -24,7 +24,7 @@ const Footer1 = (props) => {
             </h3>
           </a>
           <a
-            href="https://dyoid.se/fraktvillkor/"
+            href="https://dyoid.wuaze.com/fraktvillkor/"
             target="_blank"
             rel="noreferrer noopener"
             className="footer1-link2"
@@ -38,7 +38,7 @@ const Footer1 = (props) => {
             </h3>
           </a>
           <a
-            href="https://dyoid.se/kontakt/"
+            href="https://dyoid.wuaze.com/kontakt/"
             target="_blank"
             rel="noreferrer noopener"
             className="footer1-link3"
