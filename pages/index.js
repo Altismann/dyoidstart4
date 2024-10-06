@@ -12,12 +12,11 @@ const Home = (props) => {
           <meta property="og:title" content="dyoid" />
       <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." name="description" />
     <link rel="icon" href="/favicon.png" />
-    <link rel="icon" href="/favicon128.png" />
-    <link rel="icon" href="/favicon192.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="favicon128.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="favicon192.png" />
     <link href="/webclip.png" rel="apple-touch-icon" />
     
-        </Head>
+            </Head>
         <section className="home-section">
           <header className="home-navbar">
             <a
