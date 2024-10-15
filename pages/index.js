@@ -33,7 +33,7 @@ const Home = (props) => {
             <main className="home-main"></main>
             <div className="home-image1">
               <a
-                href="https://tjanstapp.webflow.io/carusel-gallery"
+                href="https://dyoid.webflow.io/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link2"
@@ -59,7 +59,7 @@ const Home = (props) => {
                 </div>
               </a>
               <a
-                href="https://tjanstapp.webflow.io/carusel-gallery"
+                href="https://dyoid.webflow.io/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link4"
