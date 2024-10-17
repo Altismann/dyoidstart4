@@ -10,7 +10,7 @@ const Home = (props) => {
         <Head>
           <title>dyoid</title>
           <meta property="og:title" content="dyoid" />
-      <meta content="Upplev hur fantasi och expertis smälter samman med våra kvalitetsprodukter och moddar. Alltid med den personliga stil du vill ha." name="description" />
+      <meta content="Front plate for the crafty. Full controller for the eager. SVGs for the artisan. Buy our own products with custom buttons for best results. Painted with good quality paint. The paint goes through our own curing process. We provide customized products for Xbox, PlayStation and Nintendo controllers." />
     <link rel="icon" href="/favicon.png" />
     <link rel="icon" type="image/png" sizes="128x128" href="favicon128.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="favicon192.png" />
@@ -48,16 +48,7 @@ const Home = (props) => {
           </div>
           <div className="home-container2">
             <div className="home-buttons">
-              <a
-                href="https://shop.dyoid.se/collections/all"
-                target="_blank"
-                rel="noreferrer noopener"
-                className="home-link3"
-              >
-                <div className="home-get-started1 button">
-                  <span className="home-text2">In English</span>
-                </div>
-              </a>
+            
               <a
                 href="https://dyoid.webflow.io/"
                 target="_blank"
