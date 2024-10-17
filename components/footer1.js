@@ -51,20 +51,7 @@ const Footer1 = (props) => {
               )}
             </h3>
           </a>
-          <a
-            href="https://shop.dyoid.se/collections/all"
-            target="_blank"
-            rel="noreferrer noopener"
-            className="footer1-link4"
-          >
-            <h3 className="footer1-text4">
-              {props.heading111 ?? (
-                <Fragment>
-                  <h3 className="footer1-text5">EN</h3>
-                </Fragment>
-              )}
-            </h3>
-          </a>
+         
         </div>
       </footer>
       <style jsx>
