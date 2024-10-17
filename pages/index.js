@@ -56,18 +56,9 @@ const Home = (props) => {
                 className="home-link4"
               >
                 <div className="home-get-started2 button">
-                  <span className="home-text3">Spelkontroller</span>
+                  <span className="home-text3">The controllers</span>
                 </div>
               </a>
-              <a
-                href="https://dyoid.wuaze.com/"
-                target="_blank"
-                rel="noreferrer noopener"
-                className="home-link5"
-              >
-                <div className="home-get-started3 button">
-                  <span className="home-text4">Våra projekt</span>
-                </div>
               </a>
             </div>
           </div>
