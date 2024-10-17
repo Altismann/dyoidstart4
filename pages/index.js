@@ -49,7 +49,7 @@ const Home = (props) => {
           <div className="home-container2">
             <div className="home-buttons">
               <a
-                href="https://shop.dyoid.se/collections/all"
+                href="https://dyoid.se"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link3"
