@@ -64,22 +64,17 @@ const Home = (props) => {
         <Footer1
           heading1={
             <Fragment>
-              <span className="home-text5">Villkor</span>
+              <span className="home-text5">Policy</span>
             </Fragment>
           }
           heading11={
             <Fragment>
-              <span className="home-text6">Kontakt</span>
+              <span className="home-text6">Contact</span>
             </Fragment>
           }
           heading12={
             <Fragment>
-              <span className="home-text7">Frakt</span>
-            </Fragment>
-          }
-          heading111={
-            <Fragment>
-              <span className="home-text8">EN</span>
+              <span className="home-text7">Shipping</span>
             </Fragment>
           }
           rootClassName="footer1root-class-name"
