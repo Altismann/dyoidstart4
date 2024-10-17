@@ -48,7 +48,6 @@ const Home = (props) => {
           </div>
           <div className="home-container2">
             <div className="home-buttons">
-
               <a
                 href="https://dyoid.webflow.io/"
                 target="_blank"
@@ -58,7 +57,6 @@ const Home = (props) => {
                 <div className="home-get-started2 button">
                   <span className="home-text3">The controllers</span>
                 </div>
-              </a>
               </a>
             </div>
           </div>
