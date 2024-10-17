@@ -48,7 +48,16 @@ const Home = (props) => {
           </div>
           <div className="home-container2">
             <div className="home-buttons">
-            
+              <a
+                href="https://shop.dyoid.se/collections/all"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link3"
+              >
+                <div className="home-get-started1 button">
+                  <span className="home-text2">In English</span>
+                </div>
+              </a>
               <a
                 href="https://dyoid.webflow.io/"
                 target="_blank"
